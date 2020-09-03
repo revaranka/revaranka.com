@@ -66,7 +66,7 @@
   transition: all 0.4s ease-in-out 0s;
 }
 
-.content:hover .content:active .content-overlay{
+.content:hover .content-overlay{
   opacity: .5;
 }
 
@@ -89,7 +89,7 @@
   transition: all 0.3s ease-in-out 0s;
 }
 
-.content:hover .content:active .content-details{
+.content:hover .content-details{
   top: 50%;
   left: 50%;
   opacity: 1;
