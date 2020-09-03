@@ -32,11 +32,6 @@
   width: 100%
 }
 
-.container {
-  padding-right: 0px;
-  padding-left: 0px;
-}
-
 .navbar {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -82,8 +77,6 @@
 .content-details {
   position: absolute;
   text-align: center;
-  padding-left: 1em;
-  padding-right: 1em;
   width: 100%;
   top: 50%;
   left: 50%;
